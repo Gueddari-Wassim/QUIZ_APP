@@ -1,6 +1,17 @@
-# advanced_basics
+# QUIZ_APP
 
-A new Flutter project.
+Flutter Quiz App 📱
+This Flutter Quiz App is an interactive application designed to test and enhance your knowledge of Flutter. The app features three distinct screens:
+
+Entry Screen: A welcoming screen with a button to start the quiz.
+Questions Screen: A dynamic screen presenting a series of questions about Flutter, allowing users to select their answers.
+Results Screen: Displays the user's score and performance at the end of the quiz.
+Features :
+Simple and intuitive UI.
+Seamless navigation between screens.
+Engaging and informative questions about Flutter.
+
+Feel free to explore, fork, and contribute to improve the app! 🚀
 
 ## Getting Started
 
